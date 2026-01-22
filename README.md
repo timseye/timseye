@@ -49,6 +49,3 @@ Coffee shop management API
 - **LinkedIn:** [linkedin.com/in/temirlansayat](https://linkedin.com/in/temirlansayat)
 - **Phone:** +7 775 990 5918
 
----
-
-💼 Open to backend development opportunities | 🎓 Graduating July 2026
